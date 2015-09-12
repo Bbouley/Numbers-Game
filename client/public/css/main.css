@@ -6,3 +6,11 @@ body {
 a {
   color: #00B7FF;
 }
+
+.player{
+  background-color: blue;
+}
+
+.AI{
+  background-color: red;
+}
